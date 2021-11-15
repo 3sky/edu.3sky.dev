@@ -1,0 +1,10 @@
+---
+more:
+  - name: Newsletter
+    ref: "https://3sky.dev/#newsletter"
+    icon: "gdoc_notification"
+    external: true
+  - name: "Help us grow!"
+    ref: "https://github.com/3sky/edu.3sky.dev"
+    external: true
+    icon: "gdoc_github"
